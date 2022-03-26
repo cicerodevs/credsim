@@ -1,0 +1,21 @@
+{
+    "name": "erivan/credsim",
+    "autoload": {
+        "psr-4": {
+            "Credsim\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erivan Roberto",
+            "email": "erivan.robertosousa@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">= 7.2.0",
+        "filp/whoops": "^2.14"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.0"
+    }
+}
